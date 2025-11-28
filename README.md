@@ -11,5 +11,9 @@ The NWS API is used to retrieve current and future weather data. The application
 
 Overall, the app provides an easy-to-use and convenient way for users to check the weather to prepare for the day ahead.
 
+https://github.com/user-attachments/assets/a1207420-25ae-45e9-8cea-2fee8062eb04
+
+
+
 
 
